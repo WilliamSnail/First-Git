@@ -2,4 +2,5 @@
 int main()
 {
 	printf(":D");
+	printf("double :D");
 }
